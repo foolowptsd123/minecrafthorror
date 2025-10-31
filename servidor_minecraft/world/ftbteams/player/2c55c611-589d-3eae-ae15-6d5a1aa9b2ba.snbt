@@ -1,0 +1,17 @@
+{
+	id: "2c55c611-589d-3eae-ae15-6d5a1aa9b2ba"
+	type: "player"
+	player_name: "KioikIluv"
+	ranks: {
+		2c55c611-589d-3eae-ae15-6d5a1aa9b2ba: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KioikIluv"
+		"ftbteams:description": ""
+		"ftbteams:color": "#ED59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
